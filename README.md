@@ -1,2 +1,18 @@
-# Chatting_Application
-This Java-based chatting application leverages Swing for the graphical user interface and socket programming for real-time communication. It allows a user to connect to a server and exchange messages in a responsive chat window. The application features a simple and intuitive interface, making it easy for users to send and receive messages. The server-client architecture ensures reliable message delivery and maintains a seamless communication experience. This project demonstrates the integration of Java Swing and socket programming to create a functional and interactive chat application.
+## Getting Started
+
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+
+## Folder Structure
+
+The workspace contains two folders by default, where:
+
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
+
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
