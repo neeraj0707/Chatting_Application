@@ -1,0 +1,3 @@
+Chatting_Application
+
+This Java-based chatting application leverages Swing for the graphical user interface and socket programming for real-time communication. It allows a user to connect to a server and exchange messages in a responsive chat window. The application features a simple and intuitive interface, making it easy for users to send and receive messages. The server-client architecture ensures reliable message delivery and maintains a seamless communication experience. This project demonstrates the integration of Java Swing and socket programming to create a functional and interactive chat application.
